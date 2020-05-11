@@ -1,0 +1,118 @@
+@import url('http://fonts.googleapis.com/css?family=Poppins:400,500,700');
+    
+html,body{
+    width:100%;
+    height:100%
+    font-family:"Poppins" , sans-serif;
+    color: #222;
+}
+    
+.navbar{
+    padding: .8rem;
+}
+
+.navbar li{
+    padding-right: 20px;
+}
+
+.nav-link{
+    font-size: 1.1em;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 100px;
+}
+
+.carousel-caption h1{
+    text-shadow: 1px 1px 10px #000;
+    font-size: 400%;
+}
+
+.jumbotron{
+    padding: 1rem;
+    border-radius: 0;
+}
+
+.padding{
+    padding-bottom: 2rem;
+}
+
+.welcome{
+    right: 100%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.welcome hr{
+    border-top: 2px solid #b4b4b4;
+    width: 40%;
+    margin-top: 0.3rem;
+    margin-bottom: 2rem;
+}
+
+.fa-code{
+    color: #E00000;
+    font-size: 350%;
+}
+
+.fa-bold{
+    color: #E000E0;
+    font-size: 350%;
+}
+
+.fa-css3{
+    color: #00A4A6;
+    font-size: 350%;
+}
+
+.fa-code,.fa-bold,.fa-css3{
+    padding-bottom: .7em;
+}
+
+.hello{
+    padding-top: 2em;
+}
+
+.fun{
+    padding-top: 2em;
+}
+
+.fixed-wrap{         
+    background-image: url("images/BlackWidow-2019-usp02-mobile.jpg");
+    background-attachment: fixed;
+    height: 300px;
+    background-size: cover;
+}
+
+.socialt{
+    margin-top: 2em;
+}
+
+.social{
+    font-size: 400%;
+}
+
+.fa-facebook{
+    color: darkblue;
+    padding-right: 1em;
+}
+
+.fa-twitter{
+    color: #00A4A6;
+    padding-right: 1em;
+}
+
+.fa-google-plus-g{
+    color: #E00000;
+}
+
+.fa-instagram{
+    color: darkcyan;
+    padding-left: 1em;
+}
+
+.fa-youtube{
+    color: red;
+    padding-left: 1em;
+}
